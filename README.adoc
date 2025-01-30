@@ -7,18 +7,19 @@
 :imagesdir: images
 :sectanchors:
 :sectlinks:
+:docker-icon: image:docker-mark-blue.png[width=18]
 
 == Selfhosted
 
 === Subscription Tracker
 
-* https://github.com/ellite/Wallos[Wallos] ^`PHP`^ ^`Docker`^
+* https://github.com/ellite/Wallos[Wallos] ^`PHP`^ ^{docker-icon}^
 +
 Open-Source Personal Subscription Tracker
 
 == Terminal Emulator
 
-* https://github.com/ghostty-org/ghostty[Ghostty] ^`cross-platform`^
+* https://github.com/ghostty-org/ghostty[Ghostty] ^`cross-platform`^ ^{docker-icon}^
 
 == GFW
 
