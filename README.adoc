@@ -1,0 +1,27 @@
+= My Awesome
+:toc: auto
+:toclevels: 2
+:nofooter:
+:sectnums:
+:icons: image
+:icontype: svg
+:sectanchors:
+:sectlinks:
+
+== Selfhosted
+
+=== Subscription Tracker
+
+* https://github.com/ellite/Wallos[Wallos] ^`PHP`^ ^icon:docker-mark-blue[width=16]^
++
+Open-Source Personal Subscription Tracker
+
+== Terminal Emulator
+
+* https://github.com/ghostty-org/ghostty[Ghostty] ^`cross-platform`^
+
+== GFW
+
+=== Rules
+
+* https://github.com/zxfccmm4/Surge[Surge]
