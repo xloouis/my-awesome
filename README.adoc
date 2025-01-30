@@ -88,7 +88,7 @@ Wave is an open-source terminal with superpowers, integrating file previews, fil
 +
 Securely generate API tokens for third-party access to your Tesla.
 
-* https://github.com/teslamate-org/teslamate[teslamate] ^{opensource-icon}^
+* https://github.com/teslamate-org/teslamate[teslamate] ^{opensource-icon}^ ^{docker-icon}^
 +
 A self-hosted data logger for your Tesla 🚘
 
