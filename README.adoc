@@ -19,40 +19,38 @@
 * https://anybox.app[Anybox] ^{dollar-icon}^ ^link:https://apps.apple.com/app/id1593408455[{app-store-icon}]^
 +
 Bookmark & Read Later
-+
-跨平台书签管理
 
 === macOS
 
 * Amphetamine ^link:https://apps.apple.com/app/id937984704[{app-store-icon}]^
 +
 Powerful keep-awake utility
-+
-保持唤醒
 
 * https://github.com/Ji4n1ng/OpenInTerminal[OpenInTerminal] ^{opensource-icon}^
 +
 Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
-+
-Finder中, 在Terminal中打开当前目录, 在编辑器中打开当前目录
 
 * https://github.com/cormiertyshawn895/PixelPerfect[PixelPerfect] ^{opensource-icon}^
 +
 Increase the text size of iPhone and iPad apps on Mac. Say goodbye to small and blurry text, and enjoy pixel-perfect graphics, all rendered at 100% native resolution.
-+
-在Mac上增加iPhone和iPad应用程序的文本大小
 
 * https://github.com/lihaoyun6/Topit[Topit] ^{opensource-icon}^
 +
 Pin any window to the top of your screen
-+
-在Mac上将你的任何窗口强制置顶
 
 * https://sindresorhus.com/velja[Velja] ^{dollar-icon}^ ^link:https://apps.apple.com/app/id1607635845[{app-store-icon}]^
 +
 Powerful browser picker
+
+== Command Line Tools
+
+* https://github.com/joshmedeski/sesh[sesh] ^{opensource-icon}^
 +
-自定义规则, 自动切换浏览器打开链接
+Smart session manager for the terminal
+
+* https://github.com/gpakosz/.tmux[.tmux] ^{opensource-icon}^
++
+Oh my tmux! My self-contained, pretty & versatile tmux configuration
 
 == Selfhosted
 
@@ -67,8 +65,6 @@ A self-hostable bookmark-everything app (links, notes and images) with AI-based 
 * https://github.com/ellite/Wallos[Wallos] ^`PHP`^ ^{opensource-icon}^ ^{docker-icon}^
 +
 Open-Source Personal Subscription Tracker
-+
-订阅服务管理
 
 == RSS
 
@@ -82,10 +78,24 @@ Follow your favorites in one inbox
 +
 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
+* https://www.waveterm.dev[Wave] ^`Electron`^ ^link:https://github.com/wavetermdev/waveterm[{opensource-icon}]^
++
+Wave is an open-source terminal with superpowers, integrating file previews, file editing, AI, web browsing, and workspace organization.
+
+== Tesla
+
+* https://github.com/adriankumpf/tesla_auth[tesla_auth] ^{opensource-icon}^
++
+Securely generate API tokens for third-party access to your Tesla.
+
+* https://github.com/teslamate-org/teslamate[teslamate] ^{opensource-icon}^
++
+A self-hosted data logger for your Tesla 🚘
+
 == GFW
 
 === Rules
 
 * https://github.com/zxfccmm4/Surge[Surge]
 +
-分流规则
+Filter rules
