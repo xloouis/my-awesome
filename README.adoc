@@ -4,7 +4,7 @@
 :nofooter:
 :sectnums:
 :icons: image
-:icontype: svg
+:icontype: png
 :sectanchors:
 :sectlinks:
 
