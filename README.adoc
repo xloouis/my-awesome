@@ -8,21 +8,84 @@
 :sectanchors:
 :sectlinks:
 :docker-icon: image:docker-mark-blue.png[width=18]
+:opensource-icon: image:opensource-icon.png[width=18]
+:dollar-icon: image:dollar.png[width=18]
+:app-store-icon: image:app-store.png[width=18]
+
+== Apple
+
+=== Cross Platform
+
+* https://anybox.app[Anybox] ^{dollar-icon}^ ^link:https://apps.apple.com/app/id1593408455[{app-store-icon}]^
++
+Bookmark & Read Later
++
+跨平台书签管理
+
+=== macOS
+
+* Amphetamine ^link:https://apps.apple.com/app/id937984704[{app-store-icon}]^
++
+Powerful keep-awake utility
++
+保持唤醒
+
+* https://github.com/Ji4n1ng/OpenInTerminal[OpenInTerminal] ^{opensource-icon}^
++
+Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
++
+Finder中, 在Terminal中打开当前目录, 在编辑器中打开当前目录
+
+* https://github.com/cormiertyshawn895/PixelPerfect[PixelPerfect] ^{opensource-icon}^
++
+Increase the text size of iPhone and iPad apps on Mac. Say goodbye to small and blurry text, and enjoy pixel-perfect graphics, all rendered at 100% native resolution.
++
+在Mac上增加iPhone和iPad应用程序的文本大小
+
+* https://github.com/lihaoyun6/Topit[Topit] ^{opensource-icon}^
++
+Pin any window to the top of your screen
++
+在Mac上将你的任何窗口强制置顶
+
+* https://sindresorhus.com/velja[Velja] ^{dollar-icon}^ ^link:https://apps.apple.com/app/id1607635845[{app-store-icon}]^
++
+Powerful browser picker
++
+自定义规则, 自动切换浏览器打开链接
 
 == Selfhosted
 
+=== Bookmark
+
+* https://hoarder.app[hoarder] ^link:https://github.com/hoarder-app/hoarder[{opensource-icon}]^
++
+A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+
 === Subscription Tracker
 
-* https://github.com/ellite/Wallos[Wallos] ^`PHP`^ ^{docker-icon}^
+* https://github.com/ellite/Wallos[Wallos] ^`PHP`^ ^{opensource-icon}^ ^{docker-icon}^
 +
 Open-Source Personal Subscription Tracker
++
+订阅服务管理
+
+== RSS
+
+* https://follow.is[Follow] ^link:https://github.com/RSSNext/follow[{opensource-icon}]^
++
+Follow your favorites in one inbox
 
 == Terminal Emulator
 
-* https://github.com/ghostty-org/ghostty[Ghostty] ^`cross-platform`^ ^{docker-icon}^
+* https://ghostty.org[Ghostty] ^link:https://github.com/ghostty-org/ghostty[{opensource-icon}]^
++
+Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
 == GFW
 
 === Rules
 
 * https://github.com/zxfccmm4/Surge[Surge]
++
+分流规则
