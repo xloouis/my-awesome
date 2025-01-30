@@ -3,8 +3,8 @@
 :toclevels: 2
 :nofooter:
 :sectnums:
-:icons: image
-:icontype: png
+:icons: font
+:imagesdir: images
 :sectanchors:
 :sectlinks:
 
@@ -12,7 +12,7 @@
 
 === Subscription Tracker
 
-* https://github.com/ellite/Wallos[Wallos] ^`PHP`^ ^icon:docker-mark-blue[width=16]^
+* https://github.com/ellite/Wallos[Wallos] ^`PHP`^ ^`Docker`^
 +
 Open-Source Personal Subscription Tracker
 
