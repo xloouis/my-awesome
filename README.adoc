@@ -30,6 +30,10 @@ Powerful keep-awake utility
 +
 Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
 
+* https://appmakes.io/paletro[Paletro] ^{dollar-icon}^
++
+Command palette in any applications on macOS
+
 * https://github.com/cormiertyshawn895/PixelPerfect[PixelPerfect] ^{opensource-icon}^
 +
 Increase the text size of iPhone and iPad apps on Mac. Say goodbye to small and blurry text, and enjoy pixel-perfect graphics, all rendered at 100% native resolution.
